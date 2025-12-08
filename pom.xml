@@ -11,7 +11,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub simply-app Apache Maven Packages</name>
+            <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/T-Kawano779/JavaTest202512</url>
         </repository>
     </distributionManagement>         
